@@ -1,5 +1,5 @@
 <resources>
-    <string name="main_activity_title">droidVNC-NG Admin-Panel</string>
+    <string name="main_activity_title">AKUN Admin-Panel</string>
     <string name="main_activity_settings">Einstellungen</string>
     <string name="main_activity_settings_interface">Netzwerk-Interface</string>
     <string name="main_activity_settings_interface_any">Alle</string>
@@ -60,7 +60,7 @@
     <string name="main_activity_settings_chord_volume_down">Leiser</string>
     <string name="main_activity_settings_chord_rotate">Drehen</string>
     <string name="main_activity_settings_chord_conflict">%1$s ist bereits einer anderen Aktion zugewiesen</string>
-    <string name="main_activity_about">Dies ist droidVNC-NG %1$s. Bitte beachten Sie, dass zu droidVNC-NG noch weitere Funktionen hinzugefügt werden. Sie können Probleme und Funktionswünsche unter https://github.com/bk138/droidVNC-NG/issues melden.</string>
+    <string name="main_activity_about">Dies ist AKUN %1$s. Bitte beachten Sie, dass zu AKUN noch weitere Funktionen hinzugefügt werden. Sie können Probleme und Funktionswünsche unter https://github.com/bk138/AKUN/issues melden.</string>
     <string name="main_activity_survey_button">Feedback Geben</string>
     <plurals name="main_service_notification_text_not_listening">
         <item quantity="one">Eingehende Verbindungen deaktiviert, %1$d Client verbunden</item>
@@ -80,15 +80,15 @@
     <string name="yes">Ja</string>
     <string name="no">Nein</string>
     <string name="or">oder</string>
-    <string name="input_a11y_service_description">Dies erlaubt es droidVNC-NG, Eingabeereignisse an das Android-Betriebssystem senden und so die Fernsteuerung von einem angeschlossenen VNC-Viewer aus zu ermöglichen. Alle eingegebenen Eingaben werden direkt an Android gesendet, es werden keine Eingaben protokolliert, gespeichert oder geteilt.</string>
+    <string name="input_a11y_service_description">Dies erlaubt es AKUN, Eingabeereignisse an das Android-Betriebssystem senden und so die Fernsteuerung von einem angeschlossenen VNC-Viewer aus zu ermöglichen. Alle eingegebenen Eingaben werden direkt an Android gesendet, es werden keine Eingaben protokolliert, gespeichert oder geteilt.</string>
     <string name="input_a11y_title">Eingabehilfe deaktiviert</string>
-    <string name="input_a11y_msg_input">Um Ihr Gerät fernsteuern zu können, müssen Sie die Eingabehilfe für droidVNC-NG aktivieren. Möchten Sie die Eingabehilfe jetzt aktivieren?</string>
-    <string name="input_a11y_msg_boot">Um den Start von droidVNC-NG beim Gerätestart zu ermöglichen, müssen Sie die Eingabehilfe für droidVNC-NG aktivieren. Möchten Sie die Eingabehilfe jetzt aktivieren?</string>
-    <string name="input_a11y_msg_input_and_boot">Um Ihr Gerät fernsteuern zu können und den Start von droidVNC-NG beim Gerätestart zu ermöglichen, müssen Sie die Eingabehilfe für droidVNC-NG aktivieren. Möchten Sie die Eingabehilfe jetzt aktivieren?</string>
-    <string name="input_a11y_act_not_found_msg">Die Standardeinstellungen für die Eingabehilfen konnten nicht gefunden werden. Bitte aktivieren Sie droidVNC-NG in den Systemeinstellungen für Eingabehilfen manuell.</string>
+    <string name="input_a11y_msg_input">Um Ihr Gerät fernsteuern zu können, müssen Sie die Eingabehilfe für AKUN aktivieren. Möchten Sie die Eingabehilfe jetzt aktivieren?</string>
+    <string name="input_a11y_msg_boot">Um den Start von AKUN beim Gerätestart zu ermöglichen, müssen Sie die Eingabehilfe für AKUN aktivieren. Möchten Sie die Eingabehilfe jetzt aktivieren?</string>
+    <string name="input_a11y_msg_input_and_boot">Um Ihr Gerät fernsteuern zu können und den Start von AKUN beim Gerätestart zu ermöglichen, müssen Sie die Eingabehilfe für AKUN aktivieren. Möchten Sie die Eingabehilfe jetzt aktivieren?</string>
+    <string name="input_a11y_act_not_found_msg">Die Standardeinstellungen für die Eingabehilfen konnten nicht gefunden werden. Bitte aktivieren Sie AKUN in den Systemeinstellungen für Eingabehilfen manuell.</string>
     <string name="write_storage_title">Dateizugriff deaktiviert</string>
-    <string name="write_storage_msg">Um Dateien von und zu Ihrem Gerät übertragen zu können, müssen Sie den Dateizugriff für droidVNC-NG aktivieren. Möchten Sie den Dateizugriff jetzt aktivieren?</string>
-    <string name="write_storage_msg_android_11">Um Dateien von und zu Ihrem Gerät übertragen zu können, müssen Sie den Dateizugriff für droidVNC-NG aktivieren. Bitte beachten Sie, dass das Speichern von Dateien nur in den Verzeichnissen „Download“ und „Dokumente“ möglich ist. Möchten Sie den Dateizugriff jetzt aktivieren\?</string>
+    <string name="write_storage_msg">Um Dateien von und zu Ihrem Gerät übertragen zu können, müssen Sie den Dateizugriff für AKUN aktivieren. Möchten Sie den Dateizugriff jetzt aktivieren?</string>
+    <string name="write_storage_msg_android_11">Um Dateien von und zu Ihrem Gerät übertragen zu können, müssen Sie den Dateizugriff für AKUN aktivieren. Bitte beachten Sie, dass das Speichern von Dateien nur in den Verzeichnissen „Download“ und „Dokumente“ möglich ist. Möchten Sie den Dateizugriff jetzt aktivieren\?</string>
     <string name="notification_title">Benachrichtigungen deaktiviert</string>
     <string name="notification_msg">Um Informationen zum Serverstatus anzeigen zu können und einfacher zum Admin-Panel zurücknavigieren zu können, wird empfohlen, Benachrichtigungen zu aktivieren. Möchten Sie Benachrichtigungen jetzt aktivieren?</string>
     <string name="mediaprojection_request_activity_fallback_screen_capture_title">Langsamer Fallback-Modus für Bildschirmaufnahme erkannt</string>
