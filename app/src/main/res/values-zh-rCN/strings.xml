@@ -1,5 +1,5 @@
 <resources>
-    <string name="main_activity_title">droidVNC-NG管理面板</string>
+    <string name="main_activity_title">AKUN管理面板</string>
     <string name="main_activity_settings">设置</string>
     <string name="main_activity_settings_port">端口</string>
     <string name="main_activity_settings_interface">网络接口</string>
@@ -60,7 +60,7 @@
     <string name="main_activity_settings_chord_volume_down">减小音量</string>
     <string name="main_activity_settings_chord_rotate">旋转屏幕</string>
     <string name="main_activity_settings_chord_conflict">%1$s 已分配给其他操作</string>
-    <string name="main_activity_about">这是droidVNC-NG%1$s。请注意，更多功能仍在添加到droidVNC-NG中。请报告任何问题和功能请求 https://github.com/bk138/droidVNC-NG/issues</string>
+    <string name="main_activity_about">这是AKUN%1$s。请注意，更多功能仍在添加到AKUN中。请报告任何问题和功能请求 https://github.com/bk138/AKUN/issues</string>
     <string name="main_activity_survey_button">提供反馈</string>
     <plurals name="main_service_notification_text_not_listening">
         <item quantity="one">服务器未监听传入连接，%1$d 个客户端已连接</item>
@@ -80,15 +80,15 @@
     <string name="yes">是</string>
     <string name="no">否</string>
     <string name="or">或</string>
-    <string name="input_a11y_service_description">这使得droidVNC-NG可以将输入事件发布到Android操作系统，从而可以从连接的VNC查看器进行远程控制。所有录入的输入都直接发布到Android，没有任何输入被记录、保存或共享。</string>
+    <string name="input_a11y_service_description">这使得AKUN可以将输入事件发布到Android操作系统，从而可以从连接的VNC查看器进行远程控制。所有录入的输入都直接发布到Android，没有任何输入被记录、保存或共享。</string>
     <string name="input_a11y_title">无障碍已禁用</string>
-    <string name="input_a11y_msg_input">为了能够远程控制设备，需要启用droidVNC-NG的可访问性。现在是否想启用可访问性?</string>
-    <string name="input_a11y_msg_boot">要启用 droidVNC-NG 的启动启动功能，您需要启用它的可访问性。 您想立即启用辅助功能吗？</string>
-    <string name="input_a11y_msg_input_and_boot">为了能够远程控制您的设备并启用 droidVNC-NG 的启动启动功能，您需要启用它的可访问性。 您想立即启用辅助功能吗？</string>
-    <string name="input_a11y_act_not_found_msg">找不到默认的辅助功能设置活动。请在系统辅助功能设置中手动启用 droidVNC-NG。</string>
+    <string name="input_a11y_msg_input">为了能够远程控制设备，需要启用AKUN的可访问性。现在是否想启用可访问性?</string>
+    <string name="input_a11y_msg_boot">要启用 AKUN 的启动启动功能，您需要启用它的可访问性。 您想立即启用辅助功能吗？</string>
+    <string name="input_a11y_msg_input_and_boot">为了能够远程控制您的设备并启用 AKUN 的启动启动功能，您需要启用它的可访问性。 您想立即启用辅助功能吗？</string>
+    <string name="input_a11y_act_not_found_msg">找不到默认的辅助功能设置活动。请在系统辅助功能设置中手动启用 AKUN。</string>
     <string name="write_storage_title">文件访问已禁用</string>
-    <string name="write_storage_msg">为了能够在设备之间传输文件，需要为droidVNC-NG启用文件访问。现在是否要启用文件访问?</string>
-    <string name="write_storage_msg_android_11">为了能够在设备之间传输文件，需要为droidVNC-NG启用文件访问。请注意，保存文件将只能在"下载"和"文档"目录中。现在是否要启用文件访问?</string>
+    <string name="write_storage_msg">为了能够在设备之间传输文件，需要为AKUN启用文件访问。现在是否要启用文件访问?</string>
+    <string name="write_storage_msg_android_11">为了能够在设备之间传输文件，需要为AKUN启用文件访问。请注意，保存文件将只能在"下载"和"文档"目录中。现在是否要启用文件访问?</string>
     <string name="notification_title">通知已禁用</string>
     <string name="notification_msg">为了能够显示服务器状态信息并提供更轻松地导航回管理面板的方法，建议启用通知。 您想立即启用通知吗？</string>
     <string name="mediaprojection_request_activity_fallback_screen_capture_title">检测到慢回退屏幕捕获模式</string>
